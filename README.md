@@ -10,8 +10,7 @@ Currently working as a Mobile Developer at **PT Bank Mestika Dharma** 🏦, whil
 
 ## 🤖 What I'm working on
 
-- Building **AI agents** with LangGraph (stateful, multi-step, RAG-enabled)
-- Developing a **web-based AI quiz platform** (Clean Architecture + LangGraph + Ollama)
+- Building **AI agents** with LangChain and LangGraph (stateful, multi-step, RAG-enabled)
 - Exploring **multi-agent systems** and production LLM architecture patterns
 
 ---
